@@ -1,4 +1,4 @@
-# Employee Management & Performance Tracker
+# Employee Management
 
 A full-stack web application for managing employees, tracking attendance, handling leave requests, and visualizing performance. Built with **React** (frontend) and **Node.js/Express + MongoDB** (backend).
 
